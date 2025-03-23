@@ -1,0 +1,102 @@
+{
+  "games": [
+    {
+      "id": "block-blast",
+      "name": "Block Blast!",
+      "description": "An exciting puzzle game where you match and blast colorful blocks to create epic chain reactions",
+      "iframe_url": "https://html-classic.itch.zone/html/4728279/index.html",
+      "cover_image": "/images/block-blast.png",
+      "categories": ["puzzle", "recommended", "strategy"],
+      "rating": 4.5,
+      "review": {
+        "user": {
+          "name": "Sarah Zhang",
+          "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Sarah",
+          "location": "Shanghai, China"
+        },
+        "text": "Such a refreshing take on the classic block-matching genre! The animations are smooth and the gameplay is super satisfying. Perfect for quick gaming sessions!"
+      }
+    },
+    {
+      "id": "i-am-cat",
+      "name": "I Am Cat",
+      "description": "Experience life as a curious feline in this charming adventure game where you explore, play and create mischief",
+      "iframe_url": "https://html.itch.zone/html/10237935/NGJ2024/index.html",
+      "cover_image": "/images/i-am-cat.png",
+      "categories": ["adventure", "recommended", "casual"],
+      "rating": 4.8,
+      "review": {
+        "user": {
+          "name": "Emma Wilson",
+          "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Emma",
+          "location": "London, UK"
+        },
+        "text": "As a cat lover, this game is purr-fect! The attention to detail in cat behaviors is amazing, and the gameplay is both relaxing and entertaining. Absolutely adorable!"
+      }
+    },
+    {
+      "id": "monster-survivors",
+      "name": "Monster Survivors",
+      "description": "Survive endless waves of monsters while upgrading your abilities in this intense action game",
+      "iframe_url": "https://cloud.onlinegames.io/games/2025/unity/monster-survivors/index-og.html",
+      "cover_image": "/images/monster-survivors.png",
+      "categories": ["action", "strategy", "recommended"],
+      "rating": 4.7,
+      "review": {
+        "user": {
+          "name": "Alex Chen",
+          "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alex",
+          "location": "California, USA"
+        },
+        "text": "This game is absolutely addictive! The progression system is well-balanced and the constant challenge keeps me coming back for more. Definitely worth trying!"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": "recommended",
+      "name": "Recommended",
+      "icon": "🌟"
+    },
+    {
+      "id": "action",
+      "name": "Action",
+      "icon": "⚔️"
+    },
+    {
+      "id": "adventure",
+      "name": "Adventure",
+      "icon": "🗺️"
+    },
+    {
+      "id": "puzzle",
+      "name": "Puzzle",
+      "icon": "🧩"
+    },
+    {
+      "id": "strategy",
+      "name": "Strategy",
+      "icon": "🎯"
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "icon": "⚽"
+    },
+    {
+      "id": "horror",
+      "name": "Horror",
+      "icon": "👻"
+    },
+    {
+      "id": "anime",
+      "name": "Anime",
+      "icon": "🌸"
+    },
+    {
+      "id": "casual",
+      "name": "Casual",
+      "icon": "🎮"
+    }
+  ]
+} 
